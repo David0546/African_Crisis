@@ -5,3 +5,5 @@ it contains 3 files,an Excel for the analysis of the project.An Sql quries and D
 the visualization of the final Analysis.
 
 Feel Free to navigate through various countries, and find insightful information about their Economic Crisis Over the past 150 Years.
+
+You Can Also Share Link to the project via this link https://github.com/David0546/African_Crisis.git
